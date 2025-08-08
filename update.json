@@ -1,11 +1,15 @@
+
 {
-  "versionCode": "2147483648",
+    "Title": "Update Available⚡",
+  
+    "versionCode": "2147483648",
+  
   "versionName": "20.06.43",
-  "downloadLink": "https://example.com/downloads/my_app_v1.0.1.apk",
-  "forceUpdate": false,
-  "Title": "Awesome New Features!",
-  "Msg": "We've listened to your feedback and made some significant improvements:\n\n- Dark Mode support added.\n- Faster loading times.\n- Improved stability and bug fixes.",
-  "updateSize": "30.5 MB",
-  "releaseDate": "2023-10-27",
-  "priority": "high"
+  
+    "updateSize": "100 MB",
+  
+    "releaseDate": "May 5, 2025",
+  
+    "Msg": "🎉 What's New:\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
+    "downloadLink": "Your Link Here"
 }
